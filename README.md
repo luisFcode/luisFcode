@@ -6,8 +6,6 @@
 
 ⚙️ Ferramentas: VSCode, Figma, Trello, GitHub e C++ para competições.
 
-💌 Se quiser conversar comigo fique a vontade para me chamar nessas plataformas: ⤵️
-
 
 <div align="center">
   <a href="https://github.com/luisFcode">
