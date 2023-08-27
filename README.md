@@ -6,7 +6,8 @@
 
 ⚙️ Ferramentas: VSCode, Figma, Trello, GitHub, Netlify, Wordpress, SASS. 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luisFcode)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luisFcode)](https://github.com/luisFcode/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luisFcode&show_icons=true&theme=dark)
 
 
 <div style="display: inline_block"><br>
