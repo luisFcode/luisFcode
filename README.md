@@ -4,7 +4,7 @@
 
 🎓 Estudando Engenharia Mecatrônica na UFSJ-Universidade Federal de São João del-Rei (Campus Alto Paraopeba).
 
-⚙️ Ferramentas: VSCode, Figma, Trello, GitHub e C++ para competições.
+⚙️ Ferramentas: VSCode, Figma, Trello, GitHub, Netlify, Wordpress, SASS. 
 
 
 <div align="center">
