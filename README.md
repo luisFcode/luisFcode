@@ -1,4 +1,4 @@
-✌️ Olá, meu nome é Luis Felipe. Sou Desenvolvedor de Front-End .
+✌️ Olá, meu nome é Luis Felipe. Sou Desenvolvedor de Front-End em busca do FullStack.
  
 🤔 Explorando novas tecnologias!!
 
